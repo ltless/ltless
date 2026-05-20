@@ -53,8 +53,11 @@ const me = {
 ![Claude](https://img.shields.io/badge/Claude-AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-6366F1?style=for-the-badge&logo=terminal&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white)
 
-*disclaimer: Stack Overflow, Google, and the three above are my most-used tools. no shame.*
+*disclaimer: Stack Overflow, Google, and the 6 above are my most-used tools. no shame.*
 
 </div>
 
@@ -90,8 +93,6 @@ if (result.works) {
 ```
 
 > *"I don't always understand my code. But it ships."*
-
----
 
 ---
 
