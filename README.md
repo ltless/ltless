@@ -20,7 +20,7 @@
 
 ```javascript
 const me = {
-  name: "[USERNAME]",
+  name: "Weddoy",
   status: "fresh grad who just realized real life is different from YouTube tutorials",
   location: "in front of my laptop, always",
   currentState: ["coding", "vibe coding", "watching AI code for me", "supervising"][Math.floor(Math.random()*4)],
