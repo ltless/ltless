@@ -93,37 +93,6 @@ if (result.works) {
 
 ---
 
-## 📅 My daily schedule (that I'm scared to look at)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41)
-
-</div>
-
----
-
-## 📅 My daily schedule
-
-```
-05:00  😴  Sleeping
-09:00  ☕  Coffee while opening laptop
-09:05  🤔  Reading yesterday's code, wondering "who wrote this garbage?"
-09:06  😔  Realizing it was me. AI wrote it. I approved it. same thing.
-09:07  🤖  Open Claude. Type: "hey can you fix this real quick"
-10:30  👀  Review what AI wrote. Looks good. Ship it.
-10:31  🎯  Call myself a 10x developer
-12:00  🍜  Lunch, thinking about the next prompt to write
-13:00  🐛  Found a bug
-13:01  🤖  Paste error into Claude
-13:02  ✅  Fixed. didn't read the explanation.
-17:00  📝  Commit: "feat: add feature (pair programmed with AI)"
-17:01  🧘  Log off feeling suspiciously productive
-23:00  😴  Sleep peacefully. no bugs in my dreams. AI handles those too.
-```
-
 ---
 
 ## 🏆 Achievements (legit ones)
@@ -150,7 +119,5 @@ if (result.works) {
 
 *"It works on my machine"*
 — me, always
-
-![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&color=00ff41&style=flat-square&label=lost+souls+who+ended+up+here)
 
 </div>
