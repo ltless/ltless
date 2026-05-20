@@ -12,8 +12,6 @@
 
 *a fresh grad who still believes `console.log` can solve everything*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&width=500&lines=JavaScript+developer+by+day...;AI+whisperer+by+night...;vibe+coder+24%2F7...;my+code+works+and+I+have+no+idea+why...;send+help.)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -33,13 +31,7 @@ const me = {
     "commit without messages like 'fix' or 'wip' (goal for next year)"
   ],
 
-  funFact: "I once spent 6 hours debugging just to find a missing semicolon",
-
-  contactMeIf: [
-    "you need someone who adds semicolons manually",
-    "you want a friend to watch loading bars together",
-    "you want to discuss why JavaScript is simultaneously beautiful and traumatic"
-  ]
+  funFact: "I once spent 45 hours debugging just to find a missing semicolon (its real chat)",
 }
 ```
 
