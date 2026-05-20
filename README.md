@@ -10,7 +10,7 @@
 
 # Hi, I'm Stooped Person
 
-*a fresh grad who still believes `console.log` can solve everything*
+*still thinks `console.log` is a valid debugging strategy. hasn't been proven wrong yet.*
 
 </div>
 
@@ -21,17 +21,17 @@
 ```javascript
 const me = {
   name: "Weddoy",
-  status: "fresh grad who just realized real life is different from YouTube tutorials",
-  location: "in front of my laptop, always",
+  status: "fresh grad slowly realizing youtube tutorials lied to me my entire life",
+  location: "same chair, different day",
   currentState: ["coding", "vibe coding", "watching AI code for me", "supervising"][Math.floor(Math.random()*4)],
 
   mission: [
-    "build websites that load faster than my parents' expectations",
-    "write code that humans can actually read (still failing)",
-    "commit without messages like 'fix' or 'wip' (goal for next year)"
+    "ship something before my parents ask what I do for a living again",
+    "write code that doesn't make future me cry",
+    "one meaningful commit message. just one. this year.",
   ],
 
-  funFact: "I once spent 45 hours debugging just to find a missing semicolon (its real chat)",
+  funFact: "spent 45 hours debugging once. was a missing semicolon. still not over it.",
 }
 ```
 
@@ -57,7 +57,7 @@ const me = {
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF4500?style=for-the-badge&logo=rocket&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white)
 
-*disclaimer: Stack Overflow, Google, and the 6 above are my most-used tools. no shame.*
+*yeah the AIs are in there too. we don't gatekeep around here.*
 
 </div>
 
@@ -66,14 +66,14 @@ const me = {
 ## 🤖 My vibe coding philosophy
 
 ```javascript
-// traditional workflow (before enlightenment)
+// before (dark ages)
 while (feature.notDone) {
   const hours = stareAtScreen(6)
   const solution = maybe(stackoverflow)
   cry()
 }
 
-// my current workflow (after enlightenment)
+// after (enlightenment arc)
 const result = await ai.just_do_it(`
   hey so I need a feature that does the thing
   you know the thing right
@@ -96,29 +96,27 @@ if (result.works) {
 
 ---
 
-## 🏆 Achievements (legit ones)
+## 🏆 Achievements (all real, unfortunately)
 
-- ✅ Built a project that actually runs on my machine
-- ✅ Successfully `git push` after 12 rounds of `git pull --rebase`
-- ✅ Deployed to production without anything crashing (once)
-- ✅ Wrote comments in my code (they say `// idk what this does but don't touch it`)
-- ✅ Explained to my parents that I'm not "just fixing computers"
-- ✅ Shipped a feature without understanding a single line of it
-- ✅ Written a prompt so good the AI apologized for not thinking of it first
-- ✅ Successfully reviewed AI-generated code by reading only the first line
-- 🚧 In progress: learning what my own codebase actually does
-
----
-
-*response time: anywhere between 5 minutes and 3 days depending on what bug I'm stuck on*
-
-</div>
+- ✅ built something that runs on my machine (my machine specifically)
+- ✅ survived `git pull --rebase` 12 times in one sitting
+- ✅ deployed to prod and nothing exploded (once. we cherish that memory.)
+- ✅ left comments in my code — they say `// idk what this does but don't touch it`
+- ✅ convinced my parents I'm not just "the computer guy"
+- ✅ shipped a feature I genuinely do not understand end to end
+- ✅ wrote a prompt so good the AI got a little too enthusiastic
+- ✅ reviewed AI code by skimming the first line and vibing the rest
+- 🚧 still figuring out what half my own codebase actually does
 
 ---
 
 <div align="center">
 
-*"It works on my machine"*
-— me, always
+*response time varies. could be 5 mins. could be 3 days. depends on the bug.*
+
+---
+
+*"it works on my machine"*
+— me, every time
 
 </div>
